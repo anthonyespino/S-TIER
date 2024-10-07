@@ -1,0 +1,24 @@
+canvas {
+position: fixed;
+top: 0;
+left: 0;
+}
+body{
+color: white;
+}
+#bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+
+
+main{
+top:0;
+
+position:absolute
+  width: 400px; /* Adjust the width as needed */
+  height: 60vh;
+}
