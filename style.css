@@ -6,6 +6,10 @@ left: 0;
 body{
 color: white;
 }
+h1{
+color: white;
+
+}
 #bg {
     position: fixed;
     top: 0;
