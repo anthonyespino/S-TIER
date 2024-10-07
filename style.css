@@ -18,7 +18,7 @@ color: white;
 main{
 top:0;
 
-position:absolute
+position:relative
   width: 400px; /* Adjust the width as needed */
   height: 60vh;
 }
